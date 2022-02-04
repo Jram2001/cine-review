@@ -28,42 +28,42 @@ I have used the below modules for my experiment in the given order
  
      Data set required for experiment is added
    
-   IMDB MOVIE TITLES:
+      IMDB MOVIE TITLES:
  
-     This data set consists of movie id and movie names.
+        This data set consists of movie id and movie names.
    
-   Editing Metadata:
+      Editing Metadata:
  
-     Used to change data type of fields, etc.
+        Used to change data type of fields, etc.
    
-   Join data:
+      Join data:
  
-     Used to join the above two dataset.
+        Used to join the above two dataset.
    
-   Select column in dataset:
+      Select column in dataset:
  
-     Select columns to inclue or exclude from a dataset in an operation.formerly known as project columns.
+        Select columns to inclue or exclude from a dataset in an operation.formerly known as project columns.
    
-   Remove duplicate rows:
+      Remove duplicate rows:
  
-     Remove the duplicate rows from a dataset.
+        Remove the duplicate rows from a dataset.
    
-   Split data:
+      Split data:
  
-     split the rows of a dataset into two distinct areas,here the dataset is splitted into Train and Score matchbox recommender.
+        split the rows of a dataset into two distinct areas,here the dataset is splitted into Train and Score matchbox recommender.
    
-   Train matchbox recommender:
+      Train matchbox recommender:
  
-     Train a bayesian recommender using the matchbox algorithm.
+        Train a bayesian recommender using the matchbox algorithm.
    
-   Score matchbox recommender:
+      Score matchbox recommender:
  
-     It scores a dataset using matchbox recommender.
+        It scores a dataset using matchbox recommender.
    
-   Evaluate recommender:
+      Evaluate recommender:
  
-     this is the final dataset it evaluates and gives the accuracy values 
-     this evaluate recommender is used to evaluates a recommender model.
+        this is the final dataset it evaluates and gives the accuracy values 
+        this evaluate recommender is used to evaluates a recommender model.
 
 
 
