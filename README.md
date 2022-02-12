@@ -5,17 +5,18 @@
 # AZURE SERVICES USED
  Azure machine learning studio is used to create, train and evaluate the machine learning model. In Azure machine learning portal, select or import a dataset for the model. After uploading the dataset as CSV file, then select the blocks for the model and then connect and visualize the blocks. The final output will be visualized in the evaluated model
 # CINE REVIEW MACHINE LEARNING MODEL
-<img width="583" alt="MODEL" src="https://user-images.githubusercontent.com/99004590/152488156-e6569cf5-d4b9-444d-ae2c-9ec3ab79d613.png">
+![image](https://user-images.githubusercontent.com/99004590/153700635-84dc05d1-26a4-474f-a4c3-5fa96c1ce47b.png)
 # CINE-REVIEW DATASET
-<img width="917" alt="DATA SET" src="https://user-images.githubusercontent.com/99004590/152488309-79d71a9d-dca5-46e5-8c94-b5f50a58c7f5.png">
+![image](https://user-images.githubusercontent.com/99004590/153700705-8e779457-a4ee-49a3-ab42-87a1f3618f75.png)
 # TRAINED-MODEL
-<img width="497" alt="TRAINED MODEL" src="https://user-images.githubusercontent.com/99004590/152488377-f35d820e-2eb5-46ef-bff2-f4789f679ac9.png">
+![image](https://user-images.githubusercontent.com/99004590/153700726-25ec783e-3b7e-429a-a5dd-2945f9134e59.png)
 # SCORED-MODEL FOR CINE-REVIEW
-<img width="907" alt="SCORE MODEL-1" src="https://user-images.githubusercontent.com/99004590/152488456-7cbb9693-9324-42f2-85fc-80e7e5f56602.png">
-<img width="912" alt="SCORE MODEL-2" src="https://user-images.githubusercontent.com/99004590/152488468-0e7a8c10-ddd1-4394-b81c-9f640e90efc8.png">
+![image](https://user-images.githubusercontent.com/99004590/153700757-d555d5b8-a477-40dc-8544-e81c4e8a31ce.png)
+![image](https://user-images.githubusercontent.com/99004590/153700773-474b5928-e516-4450-a609-493fc6eae514.png)
 # EVALUATED MODEL FOR CINE-REVIW
-<img width="911" alt="EVALUATE MODEL-2" src="https://user-images.githubusercontent.com/99004590/152488622-cb102818-a555-42e3-a710-c639d9d46f65.png">
-<img width="911" alt="EVALUATE MODEL-1" src="https://user-images.githubusercontent.com/99004590/152488636-69e54706-a926-4bae-9ba0-a7bb1ba469c2.png">
+![image](https://user-images.githubusercontent.com/99004590/153700792-a5db7dc4-e2c2-4ae5-af8c-f890a37cdf56.png)
+![image](https://user-images.githubusercontent.com/99004590/153700801-e2f13a35-6938-45ed-8d8f-b4e0157b5184.png)
+
 # DETAILED DISCRIPTION:
 Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas.
 
